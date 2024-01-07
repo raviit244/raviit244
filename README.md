@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @raviit244
 - 👀 I’m interested in Data Science/AI
-- 🌱 I’m currently learning IBDP Comp. Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently an undergraduate student at University of Toronto, majoring in Computer Science
+- 💞️ I’m looking to collaborate on any Python-based projects
+- 📫 Email id: raviit.vij@gmail.com
 
 <!---
 raviit244/raviit244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
