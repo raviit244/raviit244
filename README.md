@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raviit244
-- 👀 I’m interested in Data Science/AI
+- 👀 I'm passionate about artificial intelligence/data science
 - 🌱 I’m currently an undergraduate student at University of Toronto, majoring in Computer Science
 - 💞️ I’m looking to collaborate on any Python-based projects
 - 📫 Email id: raviit.vij@gmail.com
